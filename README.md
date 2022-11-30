@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pahoalapizco
 - 👀 I’m interested in Web Technologies and Data
-- 🌱 I’m currently learning Python and Data Analyst
+- 🌱 I’m currently learning Python and Data Science
 - 💞️ I’m looking to collaborate on Data projects.
 
 <!---
